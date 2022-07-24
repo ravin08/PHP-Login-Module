@@ -29,7 +29,7 @@
 |9| Front End |Validate login up form using javaScript| Not Start|--- |
 |10|Front End|Validate forget password form using javaScript| Not Start|--- |
 |11|Back End |Create user_singup table in database| Not Start|--- |
-|12|Back End |Create singup.php & coding to submit data in db| Not Start|Sanitize,encript password |
-|13|Back End |Create Login.php & coding to retrive data from db| Not Start|Sanitize,encript password |
-|14|Back End |Create forgetpw.php & coding to generate new password in db| Not Start|Sanitize,encript password |
-|15|Back End |Create logout.php & coding to logout from system| Not Start|--- |
+|12|Back End |Create singup.php & coding for submit data in db| Not Start|Sanitize,encript password |
+|13|Back End |Create Login.php & coding for retrive data from db| Not Start|Sanitize,encript password |
+|14|Back End |Create forgetpw.php & coding for generate new password in db| Not Start|Sanitize,encript password |
+|15|Back End |Create logout.php & coding for logout from system| Not Start|--- |
