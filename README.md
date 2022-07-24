@@ -20,7 +20,7 @@
 |-----|---------|----|------|------|
 |1|Front End|Create File Structure|Not Start|use boiler plate |
 |2|Front End|Setup website layout | Not Start |--- |
-|3| Front End |Setup color schme| Not Start|--- |
+|3| Front End |Setup color scheme| Not Start|--- |
 |4| Front End |Setup font family| Not Start|--- |
 |5| Front End |Create Sing up form| Not Start|--- |
 |6| Front End |Create login form| Not Start|--- |
