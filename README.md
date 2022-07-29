@@ -11,7 +11,7 @@
  
 ## Progamming language use for this module
 
-* Front End: HTML5, CSS3, javaScript-ES6, AJAX
+* Front End: HTML5, CSS3, javaScript-ES6,jQuery-3.6.0, AJAX
 * Back End : PHP-7.4.0
 * Database : mySql-8.0.18
 
