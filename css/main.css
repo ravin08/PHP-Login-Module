@@ -2,7 +2,10 @@
  *FOR ENDUSER AREA 
 */
 	@import "layout.css";
+	
+	@import "header_1.css";
+
 	@import "form.css";
-	@import url(table.css);	
-	@import url(responsive.css);
-	@import url(print.css);
+	@import "table.css";	
+	@import "responsive.css";
+	@import "print.css";

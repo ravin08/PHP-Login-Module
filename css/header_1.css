@@ -1,0 +1,102 @@
+
+
+#header-1{
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	width: 80%;
+	background-color: royalblue; 
+	margin: 0 auto;
+	height: 2rem;
+	color: #fff;
+	
+
+}
+
+#header-1>#logo{
+	width: 20%;
+	text-align: center;
+}
+
+#header-1>#menu{
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	width: 60%;
+    height: 100%;
+}
+
+#header-1>#social-link{
+	width: 20%;
+	text-align: center;
+    padding: 0.2rem;
+
+}
+
+
+/* unvisited link */
+#header-1>#logo>a:link{
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 1.25rem;
+	color: inherit;
+    padding: 0.2rem;
+
+}
+
+/* visited link */
+#header-1>#logo>a:visited{
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 1.25rem;
+	color: inherit;
+    padding: 0.2rem;
+
+}
+
+
+
+
+
+/* unvisited link */
+#header-1>#menu>a:link{
+	text-decoration: none;
+	cursor: pointer;
+	color: inherit;
+    padding: 0.2rem;
+
+}
+
+/* visited link */
+#header-1>#menu>a:visited{
+	text-decoration: none;
+	cursor: pointer;
+	color: inherit;
+    padding: 0.2rem;
+
+}
+
+
+/* mouse over link */
+#header-1>#menu>a:hover{
+    text-decoration: none;
+	cursor: pointer;
+	color: inherit;
+    padding: 0.2rem;
+	background-color: #263b6a;
+
+}
+
+/* active link */
+#header-1>#menu>a:active{
+    text-decoration: none;
+	cursor: pointer;
+	color: inherit;
+    padding: 0.2rem;
+	background-color: #263b6a;
+
+}
+
+
+
+

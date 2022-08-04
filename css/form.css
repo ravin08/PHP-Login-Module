@@ -1,7 +1,68 @@
 
-#frm-singup{
-    width: 50%;
+#frm-singup-warp,
+#frm-login-warp{
+    width: 40%;
     margin: 0 auto;
-    padding: 5px;
-    background-color: red;
+    padding: 1rem ;
+	background-color: rgb(184, 206, 253); 
+    /* border: 1px solid red; */
+    /* text-align: center; */
+    border-radius: 0.6rem;
+    
+}
+
+#frm-login-warp > h2,
+#frm-singup-warp > h2 {
+    text-align: center;
+    border-bottom: 0.1rem solid rgb(21, 0, 255);
+    margin-bottom: 1rem;
+}
+
+
+#frm-singup,
+#frm-login{
+    /* border: 1px solid red; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 0.5rem auto;
+}
+
+input{
+    width: 80%;
+    font-size: 1.1rem;
+    outline: none;
+    border: 0;
+    margin: 0 10%;
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    background-color: rgb(222, 231, 250); 
+
+    /* border: 1px solid red; */
+}
+
+input:focus{
+    background-color: rgb(251, 252, 209); 
+}
+
+.err{
+    width: 100%;
+    height: 3.0 rem;
+    margin:  0 10%;
+    padding: 0.2rem 0 2rem 0;
+    visibility: hidden;
+    color: crimson;
+    font-size: 0.9rem;
+}
+
+label{
+    height: 5rem;
+    margin: 0 0 0 5%;
+    padding: 0.5rem 0 ;
+    text-transform: capitalize;
+    visibility: visible;
+}
+
+#login,
+#sing_up{
+    cursor: pointer;
 }
